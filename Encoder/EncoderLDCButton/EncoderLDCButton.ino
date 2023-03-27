@@ -14,6 +14,9 @@ int blueButton = 4;
 int redButton = 3;
 int yellowButton = 2;
 
+int echoPin = 9;
+int trigPin = 8;
+
 int ledPin = 13;
 
 int val = 0;
@@ -32,6 +35,9 @@ void setup()
   pinMode(redButton, INPUT);
   pinMode(yellowButton, INPUT);
 
+  pinMode(echoPin, INPUT);
+  pinMode(trigPin, OUTPUT);
+
   pinMode(ledPin, OUTPUT);
 
   pinMode (S1, INPUT);
@@ -44,6 +50,8 @@ void setup()
 
 void loop() 
 {
+  int duration, cm;
+
   curS1 = digitalRead(S1);
 
   
@@ -90,6 +98,8 @@ void loop()
     
     whenKeyPress = millis();
   }
+
+   //Blue button
     if(digitalRead(blueButton) == HIGH) 
     {
          digitalWrite(ledPin, HIGH);
@@ -101,6 +111,7 @@ void loop()
     {
       digitalWrite(ledPin, LOW);
     }
+    //Red button
     if(digitalRead(redButton) == HIGH)
     {
          digitalWrite(ledPin, HIGH);
@@ -112,6 +123,7 @@ void loop()
     {
       digitalWrite(ledPin, LOW);
     }
+    //Yellow button
     if(digitalRead(yellowButton) == HIGH)
     {
          digitalWrite(ledPin, HIGH);
@@ -123,5 +135,6 @@ void loop()
     {
       digitalWrite(ledPin, LOW);
     }
+    
 }
 
