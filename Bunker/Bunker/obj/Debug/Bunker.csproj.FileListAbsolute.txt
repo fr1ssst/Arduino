@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\Bunker\Bunker\bin\Debug\Bunker.exe.config
+C:\Users\Home\Desktop\Bunker\Bunker\bin\Debug\Bunker.exe
+C:\Users\Home\Desktop\Bunker\Bunker\bin\Debug\Bunker.pdb
+C:\Users\Home\Desktop\Bunker\Bunker\obj\Debug\Bunker.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Bunker\Bunker\obj\Debug\Bunker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Bunker\Bunker\obj\Debug\Bunker.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Bunker\Bunker\obj\Debug\Bunker.exe
+C:\Users\Home\Desktop\Bunker\Bunker\obj\Debug\Bunker.pdb
+D:\VisiualCode\Bunker\Bunker\bin\Debug\Bunker.exe.config
+D:\VisiualCode\Bunker\Bunker\bin\Debug\Bunker.exe
+D:\VisiualCode\Bunker\Bunker\bin\Debug\Bunker.pdb
+D:\VisiualCode\Bunker\Bunker\obj\Debug\Bunker.csproj.AssemblyReference.cache
+D:\VisiualCode\Bunker\Bunker\obj\Debug\Bunker.csproj.SuggestedBindingRedirects.cache
+D:\VisiualCode\Bunker\Bunker\obj\Debug\Bunker.csproj.CoreCompileInputs.cache
+D:\VisiualCode\Bunker\Bunker\obj\Debug\Bunker.exe
+D:\VisiualCode\Bunker\Bunker\obj\Debug\Bunker.pdb
